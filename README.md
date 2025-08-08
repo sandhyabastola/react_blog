@@ -40,6 +40,30 @@ http://localhost:5173
 - React Router DOM
 - Mock Data (no backend)
 
+### 🔐 Authentication (Mock)
+This project includes a simple mock login system using React Context and localStorage. It protects the /create page so only logged-in users can access it.
+
+### ✅ Login Credentials (for demo)
+Email: test@example.com
+
+Password: 123456
+
+### ✨ Features:
+Login and Logout options in the header
+
+Create Post button appears only when logged in
+
+Protected route: /create is only accessible after login
+
+Session persists using localStorage
+
+### 🧭 How It Works
+AuthContext handles login/logout and user state
+
+ProtectedRoute component restricts access to private pages
+
+Header dynamically shows Login/Create/Logout based on auth state
+
 ## 📷 Screenshots
 
 ### 🏠 Homepage
