@@ -37,3 +37,14 @@ http://localhost:5173
 - Vite
 - React Router DOM
 - Mock Data (no backend)
+
+## 📷 Screenshots
+
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.png)
+
+### 📄 Post Detail
+![Post Detail](./screenshots/post_detail.png)
+
+### 📝 Create Post
+![Create Post](./screenshots/create_post.png)
