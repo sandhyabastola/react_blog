@@ -72,6 +72,9 @@ Header dynamically shows Login/Create/Logout based on auth state
 
 ## 📷 Screenshots
 
+## 🔐 Login
+![Login](./screenshots/login.png)
+
 ### 🏠 Homepage
 ![Homepage](./screenshots/homepage.png)
 
