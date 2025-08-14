@@ -78,8 +78,11 @@ Header dynamically shows Login/Create/Logout based on auth state
 ### 🏠 Homepage
 ![Homepage](./screenshots/homepage.png)
 
-### 📄 Post Detail
-![Post Detail](./screenshots/post_detail.png)
-
 ### 📝 Create Post
 ![Create Post](./screenshots/create_post.png)
+
+### Post Created
+![Post Created](./screenshots/post.png)
+
+### 📄 Post Detail
+![Post Detail](./screenshots/post_detail.png)
